@@ -1,0 +1,7 @@
+*~
+.*.swp
+dist
+packages
+tmp
+.idea
+*.iml
